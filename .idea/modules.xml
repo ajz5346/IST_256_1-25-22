@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IST_256_1-25.iml" filepath="$PROJECT_DIR$/IST_256_1-25.iml" />
       <module fileurl="file://$PROJECT_DIR$/html_css_lab/html_css_lab.iml" filepath="$PROJECT_DIR$/html_css_lab/html_css_lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/psu_bootstrap_lab.iml" filepath="$PROJECT_DIR$/psu_bootstrap_lab.iml" />
     </modules>
   </component>
 </project>
