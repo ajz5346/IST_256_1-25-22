@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IST_256_1-25.iml" filepath="$PROJECT_DIR$/IST_256_1-25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/html_css_lab/html_css_lab.iml" filepath="$PROJECT_DIR$/html_css_lab/html_css_lab.iml" />
+    </modules>
+  </component>
+</project>
